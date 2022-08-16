@@ -65,6 +65,10 @@ If this is your first time taking apart the lock, you must pay attention to the 
 
 Using the 100mm flex cable and carefully routing the extra length inside the lock seem to fare better than just using the 50mm cable, which felt slightly too short and introduced too much tension on the two ends of the flex cable.
 
+---------
+## Notes
+
+After installing this PCB, the connector fell off the board after a few days of use, and had to be re-soldered. This is why I suggest trying the 100mm FPC instead of the 50mm one. You might also want to strengthen the connector with super glue or a section of metal wire. But after all, it's better than something that breaks and become unfixable.
 
 ---------
 Shield: [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
