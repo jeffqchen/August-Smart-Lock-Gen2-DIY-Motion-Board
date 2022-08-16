@@ -4,7 +4,7 @@ The 2nd Generation August Smart Lock has a design flaw - its motion sensing boar
 
 With the lock rotating back and forth over the years, the joint where the ribbon cable meets the rigid PCB backing is fatigued and will eventually snap. This will mark the end of the part, and as well as the lock itself.
 
-The lock will be unable to tell its current position. It will be able to unlock but able to lock again, complaining that something went wrong. Attempting to recalibrate the lock will fail as well.
+The lock will be unable to tell its current position. When powered on, the LED will flash red. The lock will be able to unlock but unable to lock again, end up in a stuck state, complaining that something went wrong. Attempting to recalibrate the lock will fail as well.
 
 <img src="./Pics/pcb_front.png" width=150> <img src="./Pics/pcb_back.png" width=150>
 
